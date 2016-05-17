@@ -1,0 +1,23 @@
+#surefire
+#Tue May 17 21:26:38 MSK 2016
+testClassesDirectory=D\:\\\u0413\u043E\u0440\u043D\u044B\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Netbeans\\Http_Listenr_Netbeans\\target\\test-classes
+forkMode=once
+classPathUrl.2=C\:\\Users\\\u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446\\.m2\\repository\\javax\\javaee-web-api\\7.0\\javaee-web-api-7.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\\u0413\u043E\u0440\u043D\u044B\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Netbeans\\Http_Listenr_Netbeans\\target\\classes
+classPathUrl.0=D\:\\\u0413\u043E\u0440\u043D\u044B\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Netbeans\\Http_Listenr_Netbeans\\target\\test-classes
+reportsDirectory=D\:\\\u0413\u043E\u0440\u043D\u044B\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Netbeans\\Http_Listenr_Netbeans\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\\u0413\u043E\u0440\u043D\u044B\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Netbeans\\Http_Listenr_Netbeans\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\\u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\\u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
